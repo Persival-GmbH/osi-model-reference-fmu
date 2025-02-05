@@ -1,0 +1,5 @@
+{
+  "static_environment": "/opt/3d-assets/models/legacy_OpenMATERIAL/environments/plane/plane.gltf",
+  "/opt/3d-assets/xosc/legacy_OpenMATERIAL/../../models/legacy_OpenMATERIAL/vehicles/vehicle_example/vehicle_example.gltf": "/opt/3d-assets/models/legacy_OpenMATERIAL/vehicles/persival_s1/persival_s1.gltf",
+  "/opt/3d-assets/xosc/legacy_OpenMATERIAL/../../models/legacy_OpenMATERIAL/vehicles/truck_example/truck_example.gltf": "/opt/3d-assets/models/legacy_OpenMATERIAL/vehicles/vehicle_example/vehicle_example.gltf"
+}

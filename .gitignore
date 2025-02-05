@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build docu files
+*.pdf
+
+# Build folder
+/build*
+/cmake-build*
+/doc/html
+/OSI-Trace
+/utils/.venv
+
+# IDE configs
+.idea/
+.vs/
+.vscode/
+.editorconfig
+__pycache__
+
+# Helper files
+*.sh
