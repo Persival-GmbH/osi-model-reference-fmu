@@ -10,9 +10,9 @@ The model_reference of the static environment can be changed with the key `stati
 
 The following FMI parameters can be set.
 
-| Parameter                 | Description                                        |
-|---------------------------|----------------------------------------------------|
-| `model_reference_map_path | Absolute path to a JSON file with key-value pairs. |
+| Parameter                  | Description                                        |
+|----------------------------|----------------------------------------------------|
+| `model_reference_map_path` | Absolute path to a JSON file with key-value pairs. |
 
 ## Build instructions
 
