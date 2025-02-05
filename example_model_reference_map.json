@@ -1,0 +1,5 @@
+{
+  "static_environment": "/abs/path/to/my/stationary/environment.gltf",
+  "vehicle_example": "/abs/path/to/my/vehicle_example.gltf",
+  "truck_example": "/abs/path/to/my/truck_example.gltf"
+}
