@@ -1,3 +1,6 @@
+//
+// Copyright by Persival GmbH 2025
+//
 
 #include <fmu4cpp/fmu_base.hpp>
 
