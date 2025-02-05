@@ -12,7 +12,7 @@ IF(CMAKE_BUILD_TYPE MATCHES "Debug")
 ENDIF(CMAKE_BUILD_TYPE MATCHES "Debug")
 
 ####################################################################################################
-# Phenomenological radar config
+# model config
 ####################################################################################################
 file(GLOB MODEL_SOURCES_CPP "*.cpp")
 file(GLOB MODEL_SOURCES_H "*.h")
